@@ -1,0 +1,11 @@
+{
+   "description": "DevTools downloader",
+   "devtools_page": "html/devtools.html",
+   "icons": {
+      "128": "images/icons/128.png"
+   },
+   "manifest_version": 3,
+   "name": "TEST DEVTOOLS DOVNLOADER",
+   "permissions": [  ],
+   "version": "0.0.1"
+}

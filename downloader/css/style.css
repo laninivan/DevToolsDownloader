@@ -1,0 +1,6 @@
+.download-conteiner {
+    display: flex;
+    flex-direction: column;
+    border: rgb(83, 97, 83);
+    border-radius: 15px;
+}
